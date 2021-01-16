@@ -1,4 +1,4 @@
-# DogFed
+# FeedDog
 App designed for Hack The Northeast - 2021
 
 Category: Inconvienet App
@@ -22,3 +22,5 @@ Function:
    - Name of household member that fed the dog
    - Instead of directly asking the person, why not do it through the app? Less talking to people!
 
+Languages Used:
+- Swift

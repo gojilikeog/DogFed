@@ -24,3 +24,9 @@ Function:
 
 Languages Used:
 - Swift
+
+Recap: 
+
+- Summary
+- Problems encounted
+- The future:

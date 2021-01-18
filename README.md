@@ -30,12 +30,11 @@ Recap:
 Designing this application allowed for an accelerated learning of using XCode/Swift to develop an application. FeedDod (At the time of this update) consists of 4 Scenes w/ 2 Navigation Controllers.
     - Title Screen: Main screen w/ button that moves user to the following menu.
     - Dog House: Table View consisting of data user inputs to represents current dogs the user cares for. Screen contains two paths: Plus button to add another dog or selecting a cell proceeds to screen with information of dog's meal status
-      - Add Dog Info: Table View with four cells to input information
-        - Photo
-        - Name
-        - Breed
-        - Notes
-        
+    - Add Dog Info: Table View with four cells to input information
+      - Photo
+      - Name
+      - Breed
+      - Notes
    - Current Status: Screen with text in the center displaying the current status of the dogs meal. Screen has background colors coresponsding with each status
      - "YES" - Green background color w/ a popup thanking the user for feeding the dog
      - "NO" - Red background color w/ a popup appearing if you press the button while displaying "YES"

@@ -1,4 +1,4 @@
-![Hacking the Northeast Beyond - 2021](https://raw.githubusercontent.com/gojilikeog/DogFed/main/1604363361327.jpeg)
+![Hack the Northeast Beyond - 2021](https://raw.githubusercontent.com/gojilikeog/DogFed/main/1604363361327.jpeg)
 
 # FeedDog
 App designed for Hack The Northeast - 2021

@@ -36,10 +36,10 @@ Designing this application allowed for an accelerated learning of using XCode/Sw
         - Breed
         - Notes
         
-    - Current Status: Screen with text in the center displaying the current status of the dogs meal. Screen has background colors coresponsding with each status
-      - "YES" - Green background color w/ a popup thanking the user for feeding the dog
-      - "NO" - Red background color w/ a popup appearing if you press the button while displaying "YES"
-      - Color and Message changes upon pressing the button
+   - Current Status: Screen with text in the center displaying the current status of the dogs meal. Screen has background colors coresponsding with each status
+     - "YES" - Green background color w/ a popup thanking the user for feeding the dog
+     - "NO" - Red background color w/ a popup appearing if you press the button while displaying "YES"
+     - Color and Message changes upon pressing the button
           
 - Problems encounted:
 I determined my current skill level with Swift to be beginner at best, having spent about 10 days getting familiar with syntax/variables/classes. Ultimately, as my knowledge developed, so did the application as well as the complications that came with it. The inability to properly apply CoreData upon the final day, plus exhaustion from 15 hour stints learning/practicing/developing from the past two days led to Compiler Errors that broke the app. Application worked using Arrays/Dictionarys to store the data, but without storing the information with CoreData, the information was lost immediately after navigating away from the screens.

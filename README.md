@@ -1,4 +1,4 @@
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fhackthene%2Fposts%2F%3Fref%3Dpage_internal&psig=AOvVaw0P7bENIYG1L2RTiwdD7WZI&ust=1611017182933000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCHouqgpO4CFQAAAAAdAAAAABAD)
+![Hacking the Northeast Beyond - 2021](https://raw.githubusercontent.com/gojilikeog/DogFed/main/1604363361327.jpeg)
 
 # FeedDog
 App designed for Hack The Northeast - 2021
@@ -41,7 +41,7 @@ Designing this application allowed for an accelerated learning of using XCode/Sw
    - Current Status: Screen with text in the center displaying the current status of the dogs meal. Screen has background colors coresponsding with each status
      - "YES" - Green background color w/ a popup thanking the user for feeding the dog
      - "NO" - Red background color w/ a popup appearing if you press the button while displaying "YES"
-     - Color and Message changes upon pressing the button
+     - Color and Message changes upon pressing the button!
           
 **- Problems encounted:**
 

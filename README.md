@@ -27,7 +27,7 @@ Function:
 Languages Used:
 - Swift
 
-**Recap: Post Hackathon**-------------------------------------------
+**Recap: Post Hackathon**-----------------------------------------------------------------------------------------------------------
 
 - Summary: 
 Designing this application allowed for an accelerated learning of using XCode/Swift to develop an application. FeedDod (At the time of this update) consists of 4 Scenes w/ 2 Navigation Controllers.

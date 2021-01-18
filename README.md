@@ -1,3 +1,5 @@
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fhackthene%2Fposts%2F%3Fref%3Dpage_internal&psig=AOvVaw0P7bENIYG1L2RTiwdD7WZI&ust=1611017182933000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCHouqgpO4CFQAAAAAdAAAAABAD)
+
 # FeedDog
 App designed for Hack The Northeast - 2021
 
@@ -25,7 +27,8 @@ Function:
 Languages Used:
 - Swift
 
-Recap: 
+**Recap: Post Hackathon**-------------------------------------------
+
 - Summary: 
 Designing this application allowed for an accelerated learning of using XCode/Swift to develop an application. FeedDod (At the time of this update) consists of 4 Scenes w/ 2 Navigation Controllers.
     - Title Screen: Main screen w/ button that moves user to the following menu.
@@ -40,10 +43,12 @@ Designing this application allowed for an accelerated learning of using XCode/Sw
      - "NO" - Red background color w/ a popup appearing if you press the button while displaying "YES"
      - Color and Message changes upon pressing the button
           
-- Problems encounted:
+**- Problems encounted:**
+
 I determined my current skill level with Swift to be beginner at best, having spent about 10 days getting familiar with syntax/variables/classes. Ultimately, as my knowledge developed, so did the application as well as the complications that came with it. The inability to properly apply CoreData upon the final day, plus exhaustion from 15 hour stints learning/practicing/developing from the past two days led to Compiler Errors that broke the app. Application worked using Arrays/Dictionarys to store the data, but without storing the information with CoreData, the information was lost immediately after navigating away from the screens.
 
-- The future:
+**- The future:**
+
 Moving forward, I'll continue working on the application to fix and deploy for local use. The current problems that need to be solved:
   - CoreData implementation
   - Different animations while chaning screens instead of a screen that is able to be pulled down.

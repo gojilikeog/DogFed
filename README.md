@@ -1,5 +1,7 @@
 ![Hack the Northeast Beyond - 2021](https://raw.githubusercontent.com/gojilikeog/DogFed/main/1604363361327.jpeg)
 
+<b>Current Status: Rebuilding application from scratch in an attempt to salvage the project. Swapping from using dictionaries to a CoreData implementation doesn't seem to be going well at all. I'll be attempting to rebuild everything to see what the problem was.</b> (1/24/2021)
+
 # FeedDog
 App designed for Hack The Northeast - 2021
 
